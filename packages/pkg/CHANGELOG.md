@@ -1,5 +1,15 @@
 # Changelog
 
+## 2.0.0
+
+### Major Changes
+
+- 9d79a4e: feat: upgrade rollup to v4 and other packages
+
+### Minor Changes
+
+- 073a6cb: feat: add individual declaration task for speed
+
 ## 1.6.0
 
 ### Minor Changes
